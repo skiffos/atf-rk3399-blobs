@@ -1,6 +1,9 @@
 [submodule "u-boot"]
-	path = u-boot
+	path = pinebook-pro/u-boot
 	url = https://github.com/paralin/u-boot
 [submodule "arm-trusted-firmware"]
 	path = arm-trusted-firmware
 	url = https://github.com/paralin/arm-trusted-firmware
+[submodule "rockpro64/u-boot"]
+	path = rockpro64/u-boot
+	url = https://github.com/paralin/u-boot
