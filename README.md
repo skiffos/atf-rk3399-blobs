@@ -8,7 +8,6 @@ As a workaround, this repo is downloaded and the blobs used from here.
 
 Compiled from:
 
- - arm-trusted-firmware version 2.5
+ - arm-trusted-firmware version 2.6
  - make -j8 PLAT=rk3399 CFLAGS='-gdwarf-2' CROSS_COMPILE=aarch64-unknown-linux-gnu-
  - mv build/rk3399/release/bl31/bl31.elf ./
-

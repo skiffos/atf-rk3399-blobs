@@ -8,3 +8,6 @@ pinebook-pro/u-boot.itb: bl31.elf
 
 rockpro64/u-boot.itb: bl31.elf
 	bash ./u-boot.bash rockpro64
+
+pinephone/u-boot.itb: bl31.elf
+	bash ./u-boot.bash rockpro64
